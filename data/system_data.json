@@ -1,6 +1,6 @@
 {
 	"about": "<p>I am an open-minded individual with a proven track record in designing websites and programming.<br><br>Additionally, I have strong technical and IT skills as evidenced by my web development business and current status as an Applied Computing undergraduate. <br><br>Moreover, I have excellent communication and interpersonal skills, which were enhanced during my role as an Assistant Manager. <br><br>I am eager to be challenged and continue to professionally develop my skills. </p>",
-	"contact": "<ul class='contact'><li><a class='blue' target='_blank' href='https://github.com/zohaibnawaztarar'>GitHub</a></li><li><a class='blue' target='_blank' href='https://www.linkedin.com/in/zohaibtarar/'>LinkedIn</a></li><li></ul>",
+	"contact": "<ul class='contact'><li><a class='blue' target='_blank' href='https://github.com/zohaibnawaztarar'>GitHub</a></li><li><a class='blue' target='_blank' href='https://www.linkedin.com/in/zohaibtarar/'>LinkedIn</a></li></ul>",
 	"resume": "<a class='blue' target='_blank' href='data/csv-resume.pdf'>View My Resume</a>",
 	"proficient": "<ul><li>Java</li><li>Javascript</li><li>HTML5/CSS3</li><li>Bash</li></ul>",
 	"familiar": "<ul><li>C</li><li>Python</li></ul>",
