@@ -1,0 +1,10 @@
+{
+	"about": "<p>I am an open-minded individual with a proven track record in designing websites and programming.<br><br>Additionally, I have strong technical and IT skills as evidenced by my web development business and current status as an Applied Computing undergraduate. <br><br>Moreover, I have excellent communication and interpersonal skills, which were enhanced during my role as an Assistant Manager. <br><br>I am eager to be challenged and continue to professionally develop my skills. </p>",
+	"contact": "<ul class='contact'><li><a class='blue' target='_blank' href='https://github.com/zohaibnawaztarar'>GitHub</a></li><li><a class='blue' target='_blank' href='https://www.linkedin.com/in/zohaibtarar/'>LinkedIn</a></li><li></ul>",
+	"resume": "<a class='blue' target='_blank' href='data/csv-resume.pdf'>View My Resume</a>",
+	"proficient": "<ul><li>Java</li><li>Javascript</li><li>HTML5/CSS3</li><li>Bash</li></ul>",
+	"familiar": "<ul><li>C</li><li>Python</li></ul>",
+	"learning": "<ul><li>Laravel</li></ul>",
+	"skills": "<p>proficient.txt &nbsp&nbsp familiar.txt <br>learning.txt </p>",
+	"help": "<div> <ul> <li><strong>path</strong> - display current directory</li><li><strong>cat FILENAME</strong> - display FILENAME in window</li><li><strong>cd DIRECTORY</strong> - move into DIRECTORY or just cd to return to root</li><li><strong>ls</strong> - show files in current directory</li><li><strong>history</strong> - see your command history</li><li><strong>clear</strong> - clear current window</ul></div>"
+}
